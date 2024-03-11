@@ -1,0 +1,23 @@
+Here are the questions asked to me.
+
+Round-1:
+
+Q1: Print Zigzag traversal of a binary tree.
+
+Q2: There are two horses, one white and one black on a chess board and a queen. Which horse will reach the queen first?
+
+Round-2:
+
+Q1: A string is given. Print the string after removing all the spaces, in place without using any additional space.
+
+Q2: Given is a binary tree. Print the path which is equal to a given sum. For example print the path in which sum is 14.
+
+Round3:
+
+Q1: Delete a particular node from binary tree and free up the memory of the deleted node.
+
+Round4(Hiring Manager’s Round):
+
+Q1: A linked list is given, print the palindrome of link list without using extra space and linear complexity.
+
+Q2: A binary tree is given, invert the binary tree without using extra space and linear complexity.
